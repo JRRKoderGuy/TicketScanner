@@ -1,0 +1,7 @@
+{
+  "name": "Theatre Ticket Scanner",
+  "description": "A web application that simulates scanning theatre tickets using the device's camera. It detects black lines for tickets and red for employee overrides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
